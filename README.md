@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- Duyhaidev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/duyhaidev.svg" width="1200" alt="duyhaidev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -65,22 +65,22 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://365hack.net" target="blank">
+    <img width="90" height="90" src="images/logoduyhai.png" alt="duyhaidev-blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://facebook.com/imduyhai" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
+  <a href="https://youtube.com/@duyhai902 target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <!-- <a href="https://www.linkedin.com/in/duyhai" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  </a> -->
+  <a href="https://instagram.com/duyhai_i" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:duy.hai.network@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
